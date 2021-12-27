@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071309782203",
+    "firebase_url": "https://keepfiring-d0d46.firebaseio.com",
+    "project_id": "keepfiring-d0d46",
+    "storage_bucket": "keepfiring-d0d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071309782203:android:593d16e5d98bbd35c2fd9e",
+        "android_client_info": {
+          "package_name": "com.ZaksGame.KeepFiring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071309782203-hbcnp1t6h8hccrmtismfdimk964grla5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-YLx-echkfq2SpclgEysFkTBPrMXQlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071309782203-hbcnp1t6h8hccrmtismfdimk964grla5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
